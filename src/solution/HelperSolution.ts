@@ -4,5 +4,4 @@ export function encypher(codePhrase: string) {
     // deletes second+ e
     // changes second+ t to m
     // changes every ph to lo
-    return codePhrase;
 }
