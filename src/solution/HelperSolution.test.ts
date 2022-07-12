@@ -1,6 +1,6 @@
 import { encypher } from "./HelperSolution";
 
-describe("encypher pass phrase", () => {
+describe("PASS EACH USE CASE CUMULATIVELY", () => {
   it("changes every r to n", () => {
     expect(encypher("read")).toBe("nead");
   });
